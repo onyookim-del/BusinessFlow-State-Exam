@@ -1,0 +1,15 @@
+{
+  "register_form": "Register Form",
+  "submit_form": "Submit Form",
+  "full_name": "Full Name *",
+  "phone_number": "Phone Number *",
+  "email_address": "Email Address",
+  "password": "Password *",
+  "confirm_password": "Confirm Password *",
+  "Name is required": "Name is required",
+  "Phone number required": "Phone number required",
+  "Email required": "Email required",
+  "At least 6 characters": "At least 6 characters",
+  "Passwords do not match": "Passwords do not match",
+  "Form submitted": "Form submitted"
+}

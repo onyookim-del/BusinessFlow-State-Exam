@@ -1,0 +1,16 @@
+{
+  "register_form": "회원가입 폼",
+  "submit_form": "제출하기",
+  "full_name": "이름 *",
+  "phone_number": "전화번호 *",
+  "email_address": "이메일 주소",
+  "password": "비밀번호 *",
+  "confirm_password": "비밀번호 확인 *",
+  "Name is required": "이름은 필수입니다",
+  "Phone number required": "전화번호는 필수입니다",
+  "Email required": "이메일은 필수입니다",
+  "At least 6 characters": "6자 이상 입력하세요",
+  "Passwords do not match": "비밀번호가 일치하지 않습니다",
+  "Form submitted": "제출 완료!" 
+  
+}
